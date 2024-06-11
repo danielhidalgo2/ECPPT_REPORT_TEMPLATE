@@ -16,3 +16,5 @@ The author of this template, Daniel Hidalgo Pagés, authorizes the use and modif
 Please note that none of the vulnerabilities shown in the template are the ones that appear in the actual eCPPT exam.
 
 Good luck to all those preparing for the eCPPT certification! If you find this template helpful, consider giving it a star and sharing it with others.
+
+![658d6cc4-7630-4258-89fb-20179820658b](https://github.com/danielhidalgo2/ECPPT_REPORT_TEMPLATE/assets/60622651/08e69711-0e08-43b9-b7e1-6dc84ce357e3)
